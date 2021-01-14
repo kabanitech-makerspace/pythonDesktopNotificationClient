@@ -14,13 +14,13 @@ $ pip install -r requirements.txt
 ```
 
 ## Run
-# Windows
+### Windows
 ```sh
 $ pip3 install pythonw
 $ pythonw desktopNotification.py
 ```
 
-# Linux and Mac
+### Linux and Mac
 ```sh
 $ python3 desktopNotification.py &
 ```
