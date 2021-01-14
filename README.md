@@ -1,4 +1,4 @@
-# Desktop notification script for KabaniTech FloodSensor 
+## Desktop notification script for KabaniTech FloodSensor 
 
 <img align="right" src="https://img.shields.io/badge/Version-1.0-informational?style=flat&color=green" >
 
@@ -7,20 +7,20 @@
 <img align="right" src="https://img.shields.io/badge/Platform-heroku-informational?style=flat&logo=heroku&logoColor=white&color=8424bf">
 
 
-##  To install the dependencies
+###  To install the dependencies
 
 ```sh
 $ pip install -r requirements.txt
 ```
 
-## Run
-### Windows
+### Run
+#### Windows
 ```sh
 $ pip3 install pythonw
 $ pythonw desktopNotification.py
 ```
 
-### Linux and Mac
+#### Linux and Mac
 ```sh
 $ python3 desktopNotification.py &
 ```
