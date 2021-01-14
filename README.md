@@ -25,4 +25,4 @@ $ pythonw desktopNotification.py
 $ python3 desktopNotification.py &
 ```
 
-<img src="/images/ss.png">
+<img src="ss.png">
