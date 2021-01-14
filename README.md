@@ -26,3 +26,8 @@ $ python3 desktopNotification.py &
 ```
 
 <img src="ss.png">
+
+<a href="https://github.com/kabanitech-makerspace/kabanitechfloodsensor">
+* Main Project (floodSensor)
+</a>
+<br>
