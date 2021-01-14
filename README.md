@@ -4,7 +4,7 @@
 
 <img align="right" src="https://img.shields.io/badge/Python-3.7-informational?style=flat&logo=python&logoColor=white&color=yellow">
 
-<img align="right" src="https://img.shields.io/badge/Platform-linux-informational?style=flat&logo=linux&logoColor=white&color=yellow">
+<img align="right" src="https://img.shields.io/badge/Platform-heroku-informational?style=flat&logo=heroku&logoColor=white&color=yellow">
 
 
 ##  To install the dependencies
